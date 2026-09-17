@@ -36,10 +36,4 @@
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,git,github,docker,linux,vscode" />
 </p>
 
----
 
-## GitHub İstatistikleri
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemalongunn&layout=compact&hide_border=true" />
-</p>
