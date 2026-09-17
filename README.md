@@ -5,7 +5,7 @@
 > React, Next.js ve TypeScript ağırlıklı; kullanıcı deneyimi ve modern arayüz geliştirme odaklı çalışıyorum.
 
 - 🌍 İstanbul, Türkiye
-- 💻 Frontend geliştirme alanında 3+ yıllık deneyime sahibim
+- 💻 Frontend geliştirme alanında 4+ yıllık deneyime sahibim
 - 🚀 React, Next.js, Vite ve TypeScript ile modern web uygulamaları geliştiriyorum
 - 🎨 Kullanıcı dostu, responsive ve sürdürülebilir arayüzler geliştirmeyi seviyorum
 - 📦 Depo yönetim sistemleri ve kurumsal web uygulamaları üzerinde çalışıyorum
