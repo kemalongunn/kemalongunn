@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Kemal 👋
 
-<!--
-**kemalongunn/kemalongunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building modern web applications.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Tech Stack](https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,html,css,tailwind,materialui,nodejs,express,postgres,mongodb,git,docker,linux)
+
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kemalongunn&layout=compact&hide_border=true)
+
+## 📈 GitHub Stats
+
+![Kemal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kemalongunn&show_icons=true&hide_border=true)
